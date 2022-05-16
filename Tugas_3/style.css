@@ -1,0 +1,28 @@
+body {
+   font-family: serif, sans-serif, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS'
+}
+
+p {
+   background-color: rgb(128, 128, 128);
+}
+
+p.satu {
+   background-color: orange;
+   font-weight: 100;
+   font-size: 10px;
+}
+
+p.dua {
+   color: white;
+   background-color: blue;
+}
+
+p.tiga {
+   background-color: white;
+   border: 1px solid black;
+   font-family: monospace;
+}
+
+p.empat {
+   font-weight: bold;
+}
